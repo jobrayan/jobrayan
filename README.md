@@ -13,10 +13,24 @@
 - 🥇 Multiple Hackathon Winner
 
 ## My GitHub Statistics
-
-![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobrayan&show_icons=true&theme=radical)
-
 ![Screenshot of your profile](https://i.postimg.cc/y8HCF7w7/Screenshot-from-2025-02-16-11-35-36.png)
+
+## My GitHub Insights
+
+- 🚀 **Active Projects**: [Jobrain Platform](https://beta.jobrain.app/) - Short description and key stats like stars and forks.
+- 📊 **Contribution Graph**:
+  ![Contribution Graph](https://ghchart.rshah.org/jobrayan)
+- 🛠️ **Technologies I Use**:
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+- 📝 **Recent Activities**: [Latest PRs, Issues, Discussions]
+- ✍️ **Blogs & Writing**:
+  - [Blog Post Title](Link to Blog) - A brief overview of what this post covers.
+
+## Connect With Me
+- [LinkedIn](Your LinkedIn Profile)
+- [Twitter](Your Twitter Profile)
+
 
 ## My Most Used Languages
 
