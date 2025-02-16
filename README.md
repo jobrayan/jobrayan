@@ -18,10 +18,6 @@
 ## My GitHub Insights
 
 - 🚀 **Active Projects**: [Jobrain Platform](https://beta.jobrain.app/) - Short description and key stats like stars and forks.
-- 📊 **Contribution Graph**:
-- 
-  ![Contribution Graph](https://ghchart.rshah.org/jobrayan)
-
   
 - 🛠️ **Technologies I Use**:
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
