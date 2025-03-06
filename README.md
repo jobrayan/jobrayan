@@ -7,10 +7,6 @@
 - 💞️ I’m looking to collaborate on open source projects that focus on educational tools and community-driven development.
 - 📫 How to reach me: [Email](mailto:nathansinelnikov@gmail.com)
 
-## Achievements
-- 🏆 GitHub Arctic Code Vault Contributor
-- 🥇 Multiple Hackathon Winner
-
 ## My GitHub Statistics
 ![Screenshot of your profile](https://i.postimg.cc/y8HCF7w7/Screenshot-from-2025-02-16-11-35-36.png)
 
