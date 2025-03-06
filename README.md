@@ -5,7 +5,7 @@
 - 👀 I’m interested in machine learning, software development, and creating efficient recruitment solutions.
 - 🌱 I’m currently learning advanced React techniques and exploring Next.js 18 for more dynamic web applications.
 - 💞️ I’m looking to collaborate on open source projects that focus on educational tools and community-driven development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nathansinelnikov/)
+- 📫 How to reach me: [Email](mailto:nathansinelnikov@gmail.com)
 
 ## Achievements
 - 🏆 GitHub Arctic Code Vault Contributor
@@ -21,13 +21,10 @@
 - 🛠️ **Technologies I Use**:
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-- 📝 **Recent Activities**: [Latest PRs, Issues, Discussions]
-- ✍️ **Blogs & Writing**:
-  - [Blog Post Title](Link to Blog) - A brief overview of what this post covers.
 
 ## Connect With Me
-- [LinkedIn](Your LinkedIn Profile)
-- [Twitter](Your Twitter Profile)
+- [LinkedIn](https://www.linkedin.com/in/nathansinelnikov/))
+- [Twitter](https://x.com/nathanjobrayan))
 
 
 ## My Most Used Languages
@@ -42,9 +39,4 @@
 ## Projects I'm Proud Of
 
 - [Jobrain](Link to Jobrain) - A cutting-edge platform designed to revolutionize the recruitment industry by leveraging machine learning to match candidates with jobs.
-- [React Component Library](Link to Project) - An open-source library of React components designed for high performance and reusability.
-
-## Connect With Me
-- [LinkedIn](Your LinkedIn Profile)
-- [Twitter](Your Twitter Profile)
 
