@@ -5,7 +5,7 @@
 - 👀 I’m interested in machine learning, software development, and creating efficient recruitment solutions.
 - 🌱 I’m currently learning advanced React techniques and exploring Next.js 18 for more dynamic web applications.
 - 💞️ I’m looking to collaborate on open source projects that focus on educational tools and community-driven development.
-- 📫 How to reach me: [Linkedin|https://www.linkedin.com/in/nathansinelnikov/]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nathansinelnikov/)
 
 ## Achievements
 - 🏆 GitHub Arctic Code Vault Contributor
