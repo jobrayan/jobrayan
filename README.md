@@ -19,8 +19,8 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 
 ## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/nathansinelnikov/))
-- [Twitter](https://x.com/nathanjobrayan))
+- [LinkedIn](https://www.linkedin.com/in/nathansinelnikov/)
+- [Twitter](https://x.com/nathanjobrayan)
 
 
 ## My Most Used Languages
