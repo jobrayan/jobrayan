@@ -34,5 +34,5 @@
 
 ## Projects I'm Proud Of
 
-- [Jobrain](Link to Jobrain) - A cutting-edge platform designed to revolutionize the recruitment industry by leveraging machine learning to match candidates with jobs.
+- [Jobrain](https://jobrain.app) - A cutting-edge platform designed to revolutionize the recruitment industry by leveraging machine learning to match candidates with jobs.
 
