@@ -27,7 +27,7 @@ An **AI-driven ticket & work management platform**, enabling individuals and tea
 
 ## 📊 GitHub Statistics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jobrayan&show_icons=true&theme=radical)  
+## My GitHub Statistics ![Screenshot of your profile](https://i.postimg.cc/y8HCF7w7/Screenshot-from-2025-02-16-11-35-36.png)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobrayan&layout=compact&theme=radical)  
 
 ---
