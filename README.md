@@ -5,7 +5,7 @@
 - 👀 I’m interested in machine learning, software development, and creating efficient recruitment solutions.
 - 🌱 I’m currently learning advanced React techniques and exploring Next.js 18 for more dynamic web applications.
 - 💞️ I’m looking to collaborate on open source projects that focus on educational tools and community-driven development.
-- 📫 How to reach me: [Email](mailto:nathansinelnikov@gmail.com)
+- 📫 How to reach me: [Email](mailto:nathanjobrayan@gmail.com)
 
 ## My GitHub Statistics
 ![Screenshot of your profile](https://i.postimg.cc/y8HCF7w7/Screenshot-from-2025-02-16-11-35-36.png)
@@ -19,7 +19,7 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 
 ## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/nathansinelnikov/)
+- [LinkedIn](https://www.linkedin.com/in/nathanjobrayan/)
 - [Twitter](https://x.com/nathanjobrayan)
 
 
