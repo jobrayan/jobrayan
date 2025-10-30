@@ -20,7 +20,7 @@
 ### 🔹 [Jobrain](https://jobrain.app)  
 A cutting-edge platform revolutionizing recruitment using **machine learning** to match candidates with jobs.  
 
-### 🔹 [Codimir](https://codimir.com)  
+### 🔹 [Codmir](https://codmir.com)  
 An **AI-driven ticket & work management platform**, enabling individuals and teams to collaborate, automate workflows, and build faster with integrated AI tools.  
 
 ---
